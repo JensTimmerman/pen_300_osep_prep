@@ -24,91 +24,91 @@ Collection of resources used in prep for OSEP, including course material progres
 - [ ] Complete labs
 
 ## Syllabus
-- [x] 1. Evasion Techniques and Breaching Defenses: General Course Information
-  - [x] 1.1 About The PEN-300 Course
-  - [x] 1.2 Provided Material
-  - [x] 1.3 Overall Strategies for Approaching the Course
-  - [x] 1.4 About the PEN-300 VPN Lab
-  - [x] 1.5 About the OSEP Exam
-  - [x] 1.6 Wrapping Up
-- [x] 2. Operating System and Programming Theory
-  - [x] 2.1 Programming Theory
-    - [x] 2.1.1 Programming Language Level
-    - [x] 2.1.2 Programming Concepts
-  - [x] 2.2 Windows Concepts
-    - [x] 2.2.1 Windows on Windows
-    - [x] 2.2.2 Win32 APIs
-    - [x] 2.2.3 Windows Registry
-  - [x] 2.3 Wrapping Up
-- [x] 3. Client Side Execution With Office
-  - [x] 3.1 Will You Be My Dropper
-    - [x] 3.1.1 Staged vs. Non-Staged Payloads
-    - [x] 3.1.2 Building Our Droppers
-      - [x] 3.1.2.1 Exercise
-    - [x] 3.1.3 HTML Smuggling
-      - [x] 3.1.3.1 Exercises
-  - [x] 3.2 Phishing With Microsoft Office
-    - [x] 3.2.1 Installing Microsoft Office
-      - [x] 3.2.1.1 Exercise
-    - [x] 3.2.2 Introduction to VBA
-      - [x] 3.2.2.1 Exercises
-    - [x] 3.2.3 Let PowerShell Help Us
-      - [x] 3.2.3.1 Exercises
-  - [x] 3.3 Keeping Up Appearances
-    - [x] 3.3.1 Phishing PreTexting
-    - [x] 3.3.2 The Old Switcheroo
-      - [x] 3.3.2.1 Exercises
-  - [x] 3.4 Executing Shellcode in Word Memory
-    - [x] 3.4.1 Calling Win32 APIs from VBA
-      - [x] 3.4.1.1 Exercises
-    - [x] 3.4.2 VBA Shellcode Runner
-      - [x] 3.4.2.1 Exercise
-  - [x] 3.5 PowerShell Shellcode Runner
-    - [x] 3.5.1 Calling Win32 APIs from PowerShell
-      - [x] 3.5.1.1 Exercises
-    - [x] 3.5.2 Porting Shellcode Runner to PowerShell
-      - [x] 3.5.2.1 Exercises
-  - [x] 3.6 Keep That PowerShell in Memory
-    - [x] 3.6.1 Add-Type Compilation
-      - [x] 3.6.1.1 Exercises
-    - [x] 3.6.2 Leveraging UnsafeNativeMethods
-      - [x] 3.6.2.1 Exercises
-    - [x] 3.6.3 DelegateType Reflection
-      - [x] 3.6.3.1 Exercises
-    - [x] 3.6.4 Reflection Shellcode Runner in PowerShell
-      - [x] 3.6.4.1 Exercises
-  - [x] 3.7 Talking To The Proxy
-    - [x] 3.7.1 PowerShell Proxy-Aware Communication
-      - [x] 3.7.1.1 Exercises
-    - [x] 3.7.2 Fiddling With The User-Agent
-      - [x] 3.7.2.1 Exercises
-    - [x] 3.7.3 Give Me A SYSTEM Proxy
-      - [x] 3.7.3.1 Exercise
-  - [x] 3.8 Wrapping Up
-- [x] 4. Client Side Code Execution With Windows Script Host
-  - [x] 4.1 Creating a Basic Dropper in Jscript
-    - [x] 4.1.1 Execution of Jscript on Windows
-      - [x] 4.1.1.1 Exercises
-    - [x] 4.1.2 Jscript Meterpreter Dropper
-      - [x] 4.1.2.1 Exercises
-  - [x] 4.2 Jscript and C#
-    - [x] 4.2.1 Introduction to Visual Studio
-      - [x] 4.2.1.1 Exercises
-    - [x] 4.2.2 DotNetToJscript
-      - [x] 4.2.2.1 Exercises
-    - [x] 4.2.3 Win32 API Calls From C#
-      - [x] 4.2.3.1 Exercise
-    - [x] 4.2.4 Shellcode Runner in C#
-      - [x] 4.2.4.1 Exercise
-    - [x] 4.2.5 Jscript Shellcode Runner
-      - [x] 4.2.5.1 Exercises
+- [ ] 1. Evasion Techniques and Breaching Defenses: General Course Information
+  - [ ] 1.1 About The PEN-300 Course
+  - [ ] 1.2 Provided Material
+  - [ ] 1.3 Overall Strategies for Approaching the Course
+  - [ ] 1.4 About the PEN-300 VPN Lab
+  - [ ] 1.5 About the OSEP Exam
+  - [ ] 1.6 Wrapping Up
+- [ ] 2. Operating System and Programming Theory
+  - [ ] 2.1 Programming Theory
+    - [ ] 2.1.1 Programming Language Level
+    - [ ] 2.1.2 Programming Concepts
+  - [ ] 2.2 Windows Concepts
+    - [ ] 2.2.1 Windows on Windows
+    - [ ] 2.2.2 Win32 APIs
+    - [ ] 2.2.3 Windows Registry
+  - [ ] 2.3 Wrapping Up
+- [ ] 3. Client Side Execution With Office
+  - [ ] 3.1 Will You Be My Dropper
+    - [ ] 3.1.1 Staged vs. Non-Staged Payloads
+    - [ ] 3.1.2 Building Our Droppers
+      - [ ] 3.1.2.1 Exercise
+    - [ ] 3.1.3 HTML Smuggling
+      - [ ] 3.1.3.1 Exercises
+  - [ ] 3.2 Phishing With Microsoft Office
+    - [ ] 3.2.1 Installing Microsoft Office
+      - [ ] 3.2.1.1 Exercise
+    - [ ] 3.2.2 Introduction to VBA
+      - [ ] 3.2.2.1 Exercises
+    - [ ] 3.2.3 Let PowerShell Help Us
+      - [ ] 3.2.3.1 Exercises
+  - [ ] 3.3 Keeping Up Appearances
+    - [ ] 3.3.1 Phishing PreTexting
+    - [ ] 3.3.2 The Old Switcheroo
+      - [ ] 3.3.2.1 Exercises
+  - [ ] 3.4 Executing Shellcode in Word Memory
+    - [ ] 3.4.1 Calling Win32 APIs from VBA
+      - [ ] 3.4.1.1 Exercises
+    - [ ] 3.4.2 VBA Shellcode Runner
+      - [ ] 3.4.2.1 Exercise
+  - [ ] 3.5 PowerShell Shellcode Runner
+    - [ ] 3.5.1 Calling Win32 APIs from PowerShell
+      - [ ] 3.5.1.1 Exercises
+    - [ ] 3.5.2 Porting Shellcode Runner to PowerShell
+      - [ ] 3.5.2.1 Exercises
+  - [ ] 3.6 Keep That PowerShell in Memory
+    - [ ] 3.6.1 Add-Type Compilation
+      - [ ] 3.6.1.1 Exercises
+    - [ ] 3.6.2 Leveraging UnsafeNativeMethods
+      - [ ] 3.6.2.1 Exercises
+    - [ ] 3.6.3 DelegateType Reflection
+      - [ ] 3.6.3.1 Exercises
+    - [ ] 3.6.4 Reflection Shellcode Runner in PowerShell
+      - [ ] 3.6.4.1 Exercises
+  - [ ] 3.7 Talking To The Proxy
+    - [ ] 3.7.1 PowerShell Proxy-Aware Communication
+      - [ ] 3.7.1.1 Exercises
+    - [ ] 3.7.2 Fiddling With The User-Agent
+      - [ ] 3.7.2.1 Exercises
+    - [ ] 3.7.3 Give Me A SYSTEM Proxy
+      - [ ] 3.7.3.1 Exercise
+  - [ ] 3.8 Wrapping Up
+- [ ] 4. Client Side Code Execution With Windows Script Host
+  - [ ] 4.1 Creating a Basic Dropper in Jscript
+    - [ ] 4.1.1 Execution of Jscript on Windows
+      - [ ] 4.1.1.1 Exercises
+    - [ ] 4.1.2 Jscript Meterpreter Dropper
+      - [ ] 4.1.2.1 Exercises
+  - [ ] 4.2 Jscript and C#
+    - [ ] 4.2.1 Introduction to Visual Studio
+      - [ ] 4.2.1.1 Exercises
+    - [ ] 4.2.2 DotNetToJscript
+      - [ ] 4.2.2.1 Exercises
+    - [ ] 4.2.3 Win32 API Calls From C#
+      - [ ] 4.2.3.1 Exercise
+    - [ ] 4.2.4 Shellcode Runner in C#
+      - [ ] 4.2.4.1 Exercise
+    - [ ] 4.2.5 Jscript Shellcode Runner
+      - [ ] 4.2.5.1 Exercises
       - [ ] 4.2.5.2 Extra Mile
-    - [x] 4.2.6 SharpShooter
-      - [x] 4.2.6.1 Exercises
-  - [x] 4.3 In-memory PowerShell Revisited
-    - [x] 4.3.1 Reflective Load
-      - [x] 4.3.1.1 Exercises
-  - [x] 4.4 Wrapping Up
+    - [ ] 4.2.6 SharpShooter
+      - [ ] 4.2.6.1 Exercises
+  - [ ] 4.3 In-memory PowerShell Revisited
+    - [ ] 4.3.1 Reflective Load
+      - [ ] 4.3.1.1 Exercises
+  - [ ] 4.4 Wrapping Up
 - [ ] 5. Process Injection and Migration
   - [ ] 5.1 Finding a Home for Our Shellcode
     - [ ] 5.1.1 Process Injection and Migration Theory
